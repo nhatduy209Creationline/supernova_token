@@ -1,0 +1,39 @@
+
+:root {
+    --gradientObaGradientNeutralGradient: linear-gradient(
+          90deg,
+          #605d62 0%,   
+          #f2f2f2 100%  
+        )
+        ;    
+    --gradientObaGradientPrimaryGradient: linear-gradient(
+          90deg,
+          #006e00 0%,   
+          #34a625 100%  
+        )
+        ;    
+    --gradientObaGradientSecondaryGradient: linear-gradient(
+          90deg,
+          #735a2e 0%,   
+          #ffeed4 100%  
+        )
+        ;    
+    --gradientObaGradientTertiaryGradient: linear-gradient(
+          90deg,
+          #006495 0%,   
+          #e4f2ff 100%  
+        )
+        ;    
+    --gradientObaGradientExtended1Gradient: linear-gradient(
+          90deg,
+          #a43e00 0%,   
+          #ffede5 100%  
+        )
+        ;    
+    --gradientObaGradientExtended2Gradient: linear-gradient(
+          90deg,
+          #7c5800 0%,   
+          #ffefd4 100%  
+        )
+        ;    
+}
